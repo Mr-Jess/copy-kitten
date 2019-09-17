@@ -1,5 +1,5 @@
 #button {
-    color: blue;
+    color: rgb(255, 255, 255);
     background-color: rgba (0,183,255,1);
     border: none;
     border-radius: 25px;
@@ -9,10 +9,14 @@
     display: inline-block;
     font-size: 50px;
     margin: 20px 20px 20px;
-    box-shadow: 50px 20px 6px -6px rgb(97,10,10)
+    box-shadow: 50px 20px 6px -6px rgb(0, 0, 0)
 }
-#button: {
-    background-color: blue
+#button {
+    background-color: rgb(20, 127, 189)
+}
+
+#button:hover {
+    background-color: rgb(12, 24, 201)
 }
 .container {
     text-align: center;
