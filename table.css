@@ -10,3 +10,11 @@
     border-top: 0;
 }
 
+a.left-column {
+    border-left: 0;
+}
+
+a.right-column {
+    border-right: 0;
+}
+
