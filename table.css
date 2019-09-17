@@ -1,7 +1,12 @@
-#table {
+#table a {
     border-collapse: collapse;
 }
 
-table, th, td {
+#table a {
     border: 1px solid black;
 }
+
+#row-1 a {
+    border-top: 0;
+}
+
