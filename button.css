@@ -1,0 +1,8 @@
+#button {
+    color: white;
+    background-color: rgba (0,183,255,1);
+    border: none;
+    border-radius: 25px;
+    padding: 80px;
+    text-align: center;
+}
