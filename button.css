@@ -1,19 +1,12 @@
-#button {
-    color: white;
-    background-color: rgba (0,183,255,1);
+.button {
+    background-color: #4CAF50; /* Green */
     border: none;
-    border-radius: 25px;
-    padding: 80px;
+    color: white;
+    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 150px;
+    font-size: 16px;
     margin: 20px 20px 20px;
-    box-shadow: 50px 20px 6px -6px rgb(97,10,10)
-}
-#button:hover {
-    background-color: red;
-}
-.container {
-    text-align: center;
+    box-shadow: 50px 20px 6px -6px rgb(0, 0, 0)
 }
